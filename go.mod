@@ -1,2 +1,2 @@
-module github.com/coldbrewcloud/go-shippo
+module github.com/BoltApp/go-shippo
 go 1.15
