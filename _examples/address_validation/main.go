@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/coldbrewcloud/go-shippo"
-	"github.com/coldbrewcloud/go-shippo/models"
+	"github.com/BoltApp/go-shippo"
+	"github.com/BoltApp/go-shippo/models"
 )
 
 var (
